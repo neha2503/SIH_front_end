@@ -1,0 +1,20 @@
+.popuptext {
+	position: absolute;
+	bottom: 10vh;
+	left: 1vw;
+	padding: 0;
+	margin: 0;
+}
+
+.bttn{
+	background-color: #06283D;
+  color: #47B5FF;
+}
+
+.popup-content {
+	width: 30vw !important;
+	overflow-y: scroll;
+	height: 30vh;
+	background-color: #06283D !important;
+	color: #47B5FF;
+}

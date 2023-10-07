@@ -1,0 +1,30 @@
+.map-container {
+  height: 100%;
+}
+
+.marker {
+  background-image: url('../icons/icons8-location-off-50 (1).png');
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.mapboxgl-popup {
+  max-width: 150px;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  padding: 10px 4px 0 4px;
+  background-color: #06283D;
+  color: #47B5FF;
+  opacity: 80%;
+}
+
+.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip{
+  border-top-color: #06283D;
+  opacity: 80%;
+}

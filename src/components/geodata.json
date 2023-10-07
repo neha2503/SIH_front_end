@@ -1,0 +1,142 @@
+[
+  {
+    "tempno" : 1,
+    "id": "3DIMG_11OCT2014_1600_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.9, 16.15]
+    },
+    "properties": {
+      "time" : "1600",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "90"
+    }
+  },
+  {
+    "tempno" : 2,
+    "id": "3DIMG_11OCT2014_1630_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.86666667, 16.16666667]
+    },
+    "properties": {
+      "time" : "1630",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "95"
+    }
+  },
+  {
+    "tempno" : 3,
+    "id": "3DIMG_11OCT2014_2000_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.8, 16.2]
+    },
+    "properties": {
+      "time" : "2000",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "95"
+    }
+  },
+  {
+    "tempno" : 4,
+    "id": "3DIMG_11OCT2014_2030_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.8, 16.2]
+    },
+    "properties": {
+      "time" : "2030",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "95"
+    }
+  },
+  {
+    "tempno" : 5,
+    "id": "3DIMG_11OCT2014_2100_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.78333, 16.23333]
+    },
+    "properties": {
+      "time" : "2100",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "95"
+    }
+  },
+  {
+    "tempno" : 6,
+    "id": "3DIMG_11OCT2014_2130_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.76667, 16.26667]
+    },
+    "properties": {
+      "time" : "2130",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "95"
+    }
+  },
+  {
+    "tempno" : 7,
+    "id": "3DIMG_11OCT2014_2200_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.75, 16.3]
+    },
+    "properties": {
+      "time" : "2200",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "100"
+    }
+  },
+  {
+    "tempno" : 8,
+    "id": "3DIMG_11OCT2014_2230_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.73333, 16.33333]
+    },
+    "properties": {
+      "time" : "2230",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "100"
+    }
+  },
+  {
+    "tempno" : 9,
+    "id": "3DIMG_11OCT2014_2300_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.71667, 16.36667]
+    },
+    "properties": {
+      "time" : "2300",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "100"
+    }
+  },
+  {
+    "tempno" : 10,
+    "id": "3DIMG_11OCT2014_2330_L1C_ASIA_MER_IMG_",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.7, 16.4]
+    },
+    "properties": {
+      "time" : "2330",
+      "date" : "11OCT2014",
+      "title": "MSWS (in kts)",
+      "description": "100"
+    }
+  }
+]

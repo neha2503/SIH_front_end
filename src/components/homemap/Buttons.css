@@ -1,0 +1,47 @@
+.button-col {
+  font-size: 0.8rem;
+}
+
+.btn-dark {
+  background-color: #06283D;
+  color: #47B5FF;
+  border-width: medium;
+  border-color: #06283D;
+  position: absolute;
+  z-index: 1;
+  width: 40px;
+  height: 40px;
+  line-height: 25px;
+  bottom: 0;
+  left: 1vw;
+}
+
+.btn-dark:focus, .btn-dark:active, .btn-dark:hover {
+  border-color: #47B5FF;
+  background-color: #06283D;
+  color: #47B5FF;
+}
+
+.first-button {
+  top: 28vh;
+}
+
+.second-button {
+  top: 36vh;
+}
+
+.third-button {
+  top: 44vh;
+}
+
+.fourth-button {
+  top: 52vh;
+}
+
+.fifth-button {
+  top: 60vh;
+}
+
+.sixth-button {
+  top: 68vh;
+}

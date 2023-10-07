@@ -1,0 +1,9 @@
+.div-for-info {
+  position: absolute;
+  right: 1vw;
+  top: 15vh;
+  width: 13vw;
+  background-color: #06283D;
+  color: #47B5FF;
+  padding: 0.7rem;
+}
